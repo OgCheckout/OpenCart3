@@ -3,4 +3,10 @@ Integrating your OpenCart store with Og Pay checkout services allows you to acce
 
 # Supported Versions
 
-3.0.3.6, 3.0.3.3, 3.0.3.2, 3.0.3.1, 3.0.2.0, 3.0.1.2, 3.0.1.1 & 3.0.0.0
+OpenCart3 (3.0.0.0 to 3.0.3.6)
+
+# Module Steup & Integration
+
+Visit: https://ogpay.gitbook.io/og-pay/plugins-setup-guide/drupal
+
+For any integration related queries, you can get in touch with us at ogpaysupport@oneglobal.com
