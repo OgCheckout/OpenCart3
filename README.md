@@ -3,11 +3,4 @@ Integrating your OpenCart store with Og Pay checkout services allows you to acce
 
 # Supported Versions
 
-3.0.3.6<br>	
-3.0.3.3<br>	
-3.0.3.2<br>		
-3.0.3.1<br>	
-3.0.2.0<br>	
-3.0.1.2<br>	
-3.0.1.1<br>	
-3.0.0.0<br>	
+3.0.3.6, 3.0.3.3, 3.0.3.2, 3.0.3.1, 3.0.2.0, 3.0.1.2, 3.0.1.1 & 3.0.0.0
