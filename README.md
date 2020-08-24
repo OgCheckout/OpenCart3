@@ -5,7 +5,7 @@ Integrating your OpenCart store with Og Pay checkout services allows you to acce
 
 OpenCart3 (v3.0.0.0 to v3.0.3.6)
 
-# Module Steup & Integration
+# Module Setup Guide & Integration Help
 
 Visit: https://ogpay.gitbook.io/og-pay/plugins-setup-guide/opencart
 
